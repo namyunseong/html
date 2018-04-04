@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <title>텍스트 입력 폼</title>
+    </head>
+    <body>
+        <h3>자기 소개서 작성</h3>
+        <hr>
+        <form id="fo" method="get">
+            이름 : <input type="text" value=""><br>
+            암호 : <input type="password" value="" maxlenth="4"><br>
+            자소서 : <textarea cols="20" rows="5">이곳에 자기소개서 작성</textarea>
+            <input type="submit" value="완료">
+            <button type="reset">리셋</button>
+            <br>
+            이미지 버튼 : <input type="image" src="button.png" alt="이미지 버튼">
+        </form>
+        <hr>
+        <h3>라디오 버튼 만들기</h3>
+        <h4>먹고 싶은 것 하나만 선택</h4>
+        <form>
+            <input type="radio" name="china" value="1">짜장면<br>
+            <input type="radio" name="china" value="2">짬뽕<br>
+            <input type="radio" name="china" value="3">탕수육<br>
+        </form>
+        <br>
+        <hr>
+        <h3>콤보박스 만들기</h3>
+        <form>
+            <select name="china">
+                <option value="1">짜장면</option>
+                <option value="2" selected>짬뽕</option>
+                <option value="3">탕수육</option>
+            </select>
+        </form>
+        <hr>
+        <h3>컬러다이얼로그로 색 입력</h3>
+        <form>
+            색 선택 <input type="color" value="#00BFFF"
+            onchange="document.body.style.color=this.value">
+        </form>
+    </body>
+</html>
