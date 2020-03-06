@@ -1,0 +1,135 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-ID="2" tvg-name="OBS" tvh-chnum="2",OBS
+http://192.168.0.5:5004/auto/ch849000000-198.mpeg
+#EXTINF:-1 tvg-ID="6.1" tvg-name="SBS" tvh-chnum="6.1",SBS
+http://192.168.0.5:5004/auto/ch561000000-1.mpeg
+#EXTINF:-1 tvg-ID="7.1" tvg-name="KBS2" tvh-chnum="7.1",KBS2
+http://192.168.0.5:5004/auto/ch585000000-2.mpeg
+#EXTINF:-1 tvg-ID="9.1" tvg-name="KBS1 경인" tvh-chnum="9.1",KBS1 경인
+http://192.168.0.5:5004/auto/ch555000000-2.mpeg
+#EXTINF:-1 tvg-ID="10.1" tvg-name="EBS1" tvh-chnum="10.1",EBS1
+http://192.168.0.5:5004/auto/ch591000000-1.mpeg
+#EXTINF:-1 tvg-ID="10.2" tvg-name="EBS2" tvh-chnum="10.2",EBS2
+http://192.168.0.5:5004/auto/ch591000000-2.mpeg
+#EXTINF:-1 tvg-ID="11.1" tvg-name="MBC" tvh-chnum="11.1",MBC
+http://192.168.0.5:5004/auto/ch567000000-1.mpeg
+#EXTINF:-1 tvg-ID="14" tvg-name="채널A HD" tvh-chnum="14",채널A HD
+http://192.168.0.5:5004/auto/ch609000000-430.mpeg
+#EXTINF:-1 tvg-ID="16" tvg-name="MBN" tvh-chnum="16",MBN
+http://192.168.0.5:5004/auto/ch729000000-195.mpeg
+#EXTINF:-1 tvg-ID="17" tvg-name="tvN HD" tvh-chnum="17",tvN HD
+http://192.168.0.5:5004/auto/ch735000000-138.mpeg
+#EXTINF:-1 tvg-ID="18" tvg-name="JTBC HD" tvh-chnum="18",JTBC HD
+http://192.168.0.5:5004/auto/ch609000000-441.mpeg
+#EXTINF:-1 tvg-ID="19" tvg-name="TV조선HD" tvh-chnum="19",TV조선HD
+http://192.168.0.5:5004/auto/ch735000000-442.mpeg
+#EXTINF:-1 tvg-ID="21" tvg-name="채널CGV" tvh-chnum="21",채널CGV
+http://192.168.0.5:5004/auto/ch609000000-139.mpeg
+#EXTINF:-1 tvg-ID="22" tvg-name="OCN" tvh-chnum="22",OCN
+http://192.168.0.5:5004/auto/ch735000000-141.mpeg
+#EXTINF:-1 tvg-ID="23" tvg-name="연합뉴스TV" tvh-chnum="23",연합뉴스TV
+http://192.168.0.5:5004/auto/ch729000000-244.mpeg
+#EXTINF:-1 tvg-ID="24" tvg-name="YTN" tvh-chnum="24",YTN
+http://192.168.0.5:5004/auto/ch729000000-194.mpeg
+#EXTINF:-1 tvg-ID="25" tvg-name="부천방송HD" tvh-chnum="25",부천방송HD
+http://192.168.0.5:5004/auto/ch705000000-439.mpeg
+#EXTINF:-1 tvg-ID="27" tvg-name="Mnet" tvh-chnum="27",Mnet
+http://192.168.0.5:5004/auto/ch189000000-147.mpeg
+#EXTINF:-1 tvg-ID="45.1" tvg-name="뷰" tvh-chnum="45.1",뷰
+http://192.168.0.5:5004/auto/ch483000000-451.mpeg
+#EXTINF:-1 tvg-ID="72.1" tvg-name="FUN TV" tvh-chnum="72.1",FUN TV
+http://192.168.0.5:5004/auto/ch471000000-721.mpeg
+#EXTINF:-1 tvg-ID="77.1" tvg-name="YTN라이프" tvh-chnum="77.1",YTN라이프
+http://192.168.0.5:5004/auto/ch471000000-771.mpeg
+#EXTINF:-1 tvg-ID="78.1" tvg-name="SPOTV" tvh-chnum="78.1",SPOTV
+http://192.168.0.5:5004/auto/ch477000000-781.mpeg
+#EXTINF:-1 tvg-ID="79.1" tvg-name="SPOTV2" tvh-chnum="79.1",SPOTV2
+http://192.168.0.5:5004/auto/ch477000000-791.mpeg
+#EXTINF:-1 tvg-ID="86" tvg-name="UXN" tvh-chnum="86",UXN
+http://192.168.0.5:5004/auto/ch741000000-121.mpeg
+#EXTINF:-1 tvg-ID="86.1" tvg-name="스카이엔터" tvh-chnum="86.1",스카이엔터
+http://192.168.0.5:5004/auto/ch483000000-861.mpeg
+#EXTINF:-1 tvg-ID="87.1" tvg-name="디원" tvh-chnum="87.1",디원
+http://192.168.0.5:5004/auto/ch483000000-871.mpeg
+#EXTINF:-1 tvg-ID="91" tvg-name="SPOTV" tvh-chnum="91",SPOTV
+http://192.168.0.5:5004/auto/ch633000000-294.mpeg
+#EXTINF:-1 tvg-ID="94.1" tvg-name="국회TV" tvh-chnum="94.1",국회TV
+http://192.168.0.5:5004/auto/ch471000000-781.mpeg
+#EXTINF:-1 tvg-ID="109" tvg-name="청춘시대TV" tvh-chnum="109",청춘시대TV
+http://192.168.0.5:5004/auto/ch657000000-713.mpeg
+#EXTINF:-1 tvg-ID="161" tvg-name="헬로TV+HD" tvh-chnum="161",헬로TV+HD
+http://192.168.0.5:5004/auto/ch843000000-726.mpeg
+#EXTINF:-1 tvg-ID="232" tvg-name="CBS" tvh-chnum="232",CBS
+http://192.168.0.5:5004/auto/ch657000000-499.mpeg
+#EXTINF:-1 tvg-ID="350" tvg-name="최신인기가" tvh-chnum="350",최신인기가
+http://192.168.0.5:5004/auto/ch765000000-400.mpeg
+#EXTINF:-1 tvg-ID="351" tvg-name="인기TOP50" tvh-chnum="351",인기TOP50
+http://192.168.0.5:5004/auto/ch765000000-401.mpeg
+#EXTINF:-1 tvg-ID="352" tvg-name="인디뮤직스" tvh-chnum="352",인디뮤직스
+http://192.168.0.5:5004/auto/ch765000000-402.mpeg
+#EXTINF:-1 tvg-ID="353" tvg-name="오디션스타" tvh-chnum="353",오디션스타
+http://192.168.0.5:5004/auto/ch765000000-403.mpeg
+#EXTINF:-1 tvg-ID="354" tvg-name="성인가요" tvh-chnum="354",성인가요
+http://192.168.0.5:5004/auto/ch765000000-404.mpeg
+#EXTINF:-1 tvg-ID="355" tvg-name="히트70-80" tvh-chnum="355",히트70-80
+http://192.168.0.5:5004/auto/ch765000000-406.mpeg
+#EXTINF:-1 tvg-ID="356" tvg-name="히트80-90" tvh-chnum="356",히트80-90
+http://192.168.0.5:5004/auto/ch765000000-407.mpeg
+#EXTINF:-1 tvg-ID="357" tvg-name="히트90-00" tvh-chnum="357",히트90-00
+http://192.168.0.5:5004/auto/ch765000000-408.mpeg
+#EXTINF:-1 tvg-ID="358" tvg-name="어린이감성" tvh-chnum="358",어린이감성
+http://192.168.0.5:5004/auto/ch765000000-409.mpeg
+#EXTINF:-1 tvg-ID="359" tvg-name="소리에오디" tvh-chnum="359",소리에오디
+http://192.168.0.5:5004/auto/ch765000000-411.mpeg
+#EXTINF:-1 tvg-ID="360" tvg-name="다문화가족" tvh-chnum="360",다문화가족
+http://192.168.0.5:5004/auto/ch765000000-412.mpeg
+#EXTINF:-1 tvg-ID="361" tvg-name="다문화가족" tvh-chnum="361",다문화가족
+http://192.168.0.5:5004/auto/ch765000000-413.mpeg
+#EXTINF:-1 tvg-ID="362" tvg-name="최신히트팝" tvh-chnum="362",최신히트팝
+http://192.168.0.5:5004/auto/ch765000000-415.mpeg
+#EXTINF:-1 tvg-ID="363" tvg-name="김기덕의골" tvh-chnum="363",김기덕의골
+http://192.168.0.5:5004/auto/ch765000000-416.mpeg
+#EXTINF:-1 tvg-ID="364" tvg-name="J-POP" tvh-chnum="364",J-POP
+http://192.168.0.5:5004/auto/ch765000000-417.mpeg
+#EXTINF:-1 tvg-ID="365" tvg-name="월드뮤직" tvh-chnum="365",월드뮤직
+http://192.168.0.5:5004/auto/ch765000000-418.mpeg
+#EXTINF:-1 tvg-ID="366" tvg-name="락&하드코" tvh-chnum="366",락&하드코
+http://192.168.0.5:5004/auto/ch765000000-421.mpeg
+#EXTINF:-1 tvg-ID="367" tvg-name="O.S.T" tvh-chnum="367",O.S.T
+http://192.168.0.5:5004/auto/ch765000000-422.mpeg
+#EXTINF:-1 tvg-ID="368" tvg-name="재즈" tvh-chnum="368",재즈
+http://192.168.0.5:5004/auto/ch765000000-431.mpeg
+#EXTINF:-1 tvg-ID="369" tvg-name="뉴에이지" tvh-chnum="369",뉴에이지
+http://192.168.0.5:5004/auto/ch765000000-432.mpeg
+#EXTINF:-1 tvg-ID="370" tvg-name="클래식" tvh-chnum="370",클래식
+http://192.168.0.5:5004/auto/ch765000000-433.mpeg
+#EXTINF:-1 tvg-ID="371" tvg-name="국악마당" tvh-chnum="371",국악마당
+http://192.168.0.5:5004/auto/ch765000000-434.mpeg
+#EXTINF:-1 tvg-ID="372" tvg-name="천주교" tvh-chnum="372",천주교
+http://192.168.0.5:5004/auto/ch765000000-435.mpeg
+#EXTINF:-1 tvg-ID="373" tvg-name="기독교" tvh-chnum="373",기독교
+http://192.168.0.5:5004/auto/ch765000000-438.mpeg
+#EXTINF:-1 tvg-ID="374" tvg-name="불교" tvh-chnum="374",불교
+http://192.168.0.5:5004/auto/ch765000000-423.mpeg
+#EXTINF:-1 tvg-ID="375" tvg-name="클럽뮤직" tvh-chnum="375",클럽뮤직
+http://192.168.0.5:5004/auto/ch765000000-424.mpeg
+#EXTINF:-1 tvg-ID="376" tvg-name="쿨&핫" tvh-chnum="376",쿨&핫
+http://192.168.0.5:5004/auto/ch765000000-425.mpeg
+#EXTINF:-1 tvg-ID="377" tvg-name="파워스테이" tvh-chnum="377",파워스테이
+http://192.168.0.5:5004/auto/ch765000000-426.mpeg
+#EXTINF:-1 tvg-ID="378" tvg-name="위드커피" tvh-chnum="378",위드커피
+http://192.168.0.5:5004/auto/ch765000000-427.mpeg
+#EXTINF:-1 tvg-ID="379" tvg-name="뷰티존" tvh-chnum="379",뷰티존
+http://192.168.0.5:5004/auto/ch765000000-428.mpeg
+#EXTINF:-1 tvg-ID="404" tvg-name="EBS플러스1" tvh-chnum="404",EBS플러스1
+http://192.168.0.5:5004/auto/ch633000000-247.mpeg
+#EXTINF:-1 tvg-ID="405" tvg-name="EBS플러스2" tvh-chnum="405",EBS플러스2
+http://192.168.0.5:5004/auto/ch633000000-248.mpeg
+#EXTINF:-1 tvg-ID="531" tvg-name="복지TV" tvh-chnum="531",복지TV
+http://192.168.0.5:5004/auto/ch663000000-239.mpeg
+#EXTINF:-1 tvg-ID="535" tvg-name="국회TV" tvh-chnum="535",국회TV
+http://192.168.0.5:5004/auto/ch747000000-114.mpeg
+#EXTINF:-1 tvg-ID="536" tvg-name="KTV" tvh-chnum="536",KTV
+http://192.168.0.5:5004/auto/ch663000000-210.mpeg
+#EXTINF:-1 tvg-ID="998" tvg-name="헬로TV 공지" tvh-chnum="998",헬로TV 공지
+http://192.168.0.5:5004/auto/ch177000000-482.mpeg
